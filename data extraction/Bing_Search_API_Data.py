@@ -70,7 +70,6 @@ obtaining Bing's Search API key:
 > Create a Bing Search Resource
 > Get Your API Key
 ( Bing Search API documentation )
-( Remember to always keep your API keys private. Avoid exposing them in public repositories, hardcoded in client-side code, or in other public parts of applications. )
 """
 
 
