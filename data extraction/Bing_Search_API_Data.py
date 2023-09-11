@@ -4,7 +4,7 @@ import requests
 
 class Bing_Search:
 
-    BING_API_KEY = "7681e8c0be514edfa578dc49a1cfb6f6"
+    BING_API_KEY = " "
     BING_NEWS_ENDPOINT = "https://api.bing.microsoft.com/v7.0/news/search"
     BING_ENDPOINT = "https://api.bing.microsoft.com/v7.0/search"
 
